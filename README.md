@@ -1,2 +1,0 @@
-# RayRayRay
-beginner projects
